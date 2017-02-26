@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Game>
+    <PieceRadius>12</PieceRadius>
+    <BoardRadius>24</BoardRadius>
+    <BoardBackground>:/gobang_img/GobangChess/res/images/background/gobangBoard.png</BoardBackground>
+    <WhitePieceBg>:/gobang_img/GobangChess/res/images/white_img.png</WhitePieceBg>
+    <BlackPieceBg>:/gobang_img/GobangChess/res/images/black_img.png</BlackPieceBg>
+</Game>

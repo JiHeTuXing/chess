@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Game>
+    <PieceRadius>20</PieceRadius>
+    <BoardRadius>40</BoardRadius>
+    <Pieces>
+        <Piece type="Che">
+                <text>车</text>
+                <text>車</text>
+        </Piece>
+        <Piece type="Ma">
+                <text>马</text>
+                <text>馬</text>
+        </Piece>
+        <Piece type="Shi">
+                <text>士</text>
+        </Piece>
+        <Piece type="Xiang">
+                <text>象</text>
+                <text>相</text>
+        </Piece>
+        <Piece type="Jiang">
+                <text>将</text>
+                <text>將</text>
+                <text>帥</text>
+                <text>帅</text>
+        </Piece>
+        <Piece type="Pao">
+                <text>炮</text>
+        </Piece>
+        <Piece type="Bing">
+                <text>兵</text>
+                <text>卒</text>
+        </Piece>
+    </Pieces>
+    <BoardBackground>:/chinese_img/chinese_chess_bg2</BoardBackground>
+    <PieceBackground>:/chinese_img/chinese_piece_nomal</PieceBackground>
+    <Piece-press>:/chinese_img/chinese_piece_press</Piece-press>
+</Game>
